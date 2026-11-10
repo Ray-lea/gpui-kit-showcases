@@ -4,9 +4,18 @@
   "author": "thinkingsand",
   "description": "A self-hosted home for coding agents. Chat with your Bots, review their diffs, files and terminals in side tabs, and keep every agent on one gateway you run yourself, reachable from Mac and iPhone.",
   "category": "dev",
-  "platforms": ["macOS"],
-  "previews": ["preview0.png", "preview1.png", "preview2.png", "preview3.png"],
+  "platforms": [
+    "macOS"
+  ],
+  "previews": [
+    "preview0.png",
+    "preview1.png",
+    "preview2.png",
+    "preview3.png"
+  ],
   "website": "https://mobius.thinkingsand.dev",
   "source": "https://github.com/citizenhicks/mobius",
-  "publishedAt": "2026-10-24T00:00:00Z"
+  "publishedAt": "2026-10-24T00:00:00Z",
+  "stars": 454,
+  "starsUpdatedAt": "2026-11-10T11:07:57.670Z"
 }
